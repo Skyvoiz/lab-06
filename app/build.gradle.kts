@@ -43,4 +43,5 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+    implementation(files("C:/Users/Skyvoiz/AppData/Local/Android/Sdk/platforms/android-36/android.jar"))
 }
